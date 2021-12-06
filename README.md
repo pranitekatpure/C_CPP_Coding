@@ -1,4 +1,4 @@
-# Guys!!!!!! Push your LOGIC here.
+# Guys!!!!!!!!! Push your LOGIC here.
 
 ## Code Writing Rules:
 - Write short description (one or two lines). 
